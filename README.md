@@ -20,7 +20,16 @@ An IoT-based inventory management system that automates stock monitoring through
 * **Weight Dependency:** Only works for items that can be measured by weight.
 * **Network & Hardware:** Depends heavily on a stable WiFi connection and proper hardware calibration (Load Cell, HX711, ESP32).
 
-# Technologies & Tools Used:
-* **Hardware Components:** ESP32 Microcontroller, Load Cell Sensor, HX711 Amplifier.
-* **Software & Frameworks:** Flutter & Dart (Mobile App), Blynk IoT Platform.
-* **Development Environments:** Arduino IDE, VS Code, Android Studio Emulator.
+---
+
+## Technologies & Tools Used:
+
+### Hardware Components:
+* **Microcontroller:** ESP32
+* **Sensors & Modules:** Load Cell (20kg), HX711 Amplifier, 0.96" OLED Display
+* **Power & Structure:** Portable Power Bank (Power Supply), PVC Board
+  
+### Software & Frameworks:
+* **Mobile App Framework:** Flutter & Dart
+* **IoT Cloud Platform:** Blynk IoT
+* **Development Environments (IDEs):** Arduino IDE, Android Studio Emulator, VS Code
