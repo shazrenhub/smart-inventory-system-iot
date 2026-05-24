@@ -1,7 +1,7 @@
 # 🎛️ Smart Inventory System (IoT-Based)
 An IoT-based inventory management system that automates stock monitoring through weight measurement, sending real-time data and low-stock notifications to a mobile application.
 
-# Problem Statement:
+## Problem Statement:
 * **Manual Processes:** Traditional inventory checking relies heavily on manual counting, which is time-consuming and inefficient.
 * **Human Error:** Small items (e.g., pens, paper packs) are easy to miscount, leading to inaccurate records and unexpected shortages.
 * **Lack of Real-Time Updates:** Workers often overlook low-stock items across multiple shelves, causing delays in restocking.
