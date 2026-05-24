@@ -33,3 +33,16 @@ An IoT-based inventory management system that automates stock monitoring through
 * **Mobile App Framework:** Flutter & Dart
 * **IoT Cloud Platform:** Blynk IoT
 * **Development Environments (IDEs):** Arduino IDE, Android Studio Emulator, VS Code
+
+---
+
+## System Previews:
+
+### Physical Prototype Setup:
+![Hardware Setup](hardwareproduct.jpeg)
+
+### Flutter Mobile Application Dashboard:
+![Mobile App UI](apphomepage.jpg)
+![Mobile App UI](availableitem.jpg)
+![Mobile App UI](liveinventorycalculator.png)
+
