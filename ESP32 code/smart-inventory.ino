@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6DaVyZMes"
-#define BLYNK_TEMPLATE_NAME "SmartInventory"
-#define BLYNK_AUTH_TOKEN "iQ5yHTT7Jghg4Y1aU9mr_ICYREFaHS6R"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #define BLYNK_PRINT Serial
 
@@ -12,8 +12,8 @@
 #include "HX711.h"
 
 // WiFi
-char ssid[] = "sixseven";
-char pass[] = "m9029084";
+char ssid[] = "YOUR_WIFI_SSID";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // OLED
 #define SCREEN_WIDTH 128
